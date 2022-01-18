@@ -13,4 +13,3 @@ for(let assunto of assuntoEcma){
     console.log(assunto) //listar os nomes do array
 }
 
-c
